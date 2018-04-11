@@ -76,5 +76,24 @@ const age = 17;
 age++;
 ```
 
+### 2. Redeclarations: username
+
+Where is the error in the following snippet of code?
+
+```
+const username = 'vrk';
+let username = '';
+```
+
+### 3. Booleans: yes and no
+
+Where is the error in the following snippet of code?
+
+```
+const yes = true;
+let no = FALSE;
+console.log('no');
+```
+
 ## Bonuses
 ...
