@@ -1,4 +1,4 @@
-# week0.day1.variables
+# week0.day0.variables
 
 ## Variable basics
 
