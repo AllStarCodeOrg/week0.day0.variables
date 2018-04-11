@@ -8,7 +8,7 @@
 - Print the values of these variables, each on its own line.
 - Execute your JavaScript code using `node basics.js` on the command line to see whether everything works.
 
-### 2. StubHub: Fixing redundancy
+### 2. Fixing redundancy: StubHub
 
 The following program has a lot of redundant calculations. Use variables to reduce the redundancy in the code.
 
@@ -24,7 +24,7 @@ console.log('Total profit: ' + ((45 + 75 + 125) * 1.5  - (45 + 75 + 125) * 1.5 *
 
 ## Spot the bug
 
-### 1. Anti-aging: `const` practice
+### 1. `const` practice: Anti-aging
 
 Why doesn't this code work?
 
