@@ -46,6 +46,11 @@ burger = pizza;
 pizza = 10;
 ```
 
+- A. `pizza` is 5; `burger` is 10
+- B. `pizza` is 10; `burger` is 10
+- C. `pizza` is 10; `burger` is 5
+- D. `pizza` is 5; `burger` is 5
+
 ### 3. Operators
 
 What are the values of `pizza` and `burger` after the following code executes?
