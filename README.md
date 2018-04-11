@@ -13,10 +13,14 @@
 The following program has a lot of redundant calculations. Use variables to reduce the redundancy in the code.
 
 ```
-console.log('Face value: ' + (45 + 75 + 125));
-console.log('Selling price: ' + (45 + 75 + 125) * 1.5);
-console.log('Seller fee: ' + (45 + 75 + 125) * 1.5 * 0.2);
-console.log('Total profit: ' + ((45 + 75 + 125) * 1.5  - (45 + 75 + 125) * 1.5 * 0.2 - (45 + 75 + 125)));
+// We bought some tickets to see SZA!
+console.log('Face value: ' + (45 * 4 + 75 * 2));
+// We're selling them for 50% more lol.
+console.log('Selling price: ' + (45 * 4 + 75 * 2) * 1.5);
+// But StubHub is charging a 20% seller fee...
+console.log('Seller fee: ' + (45 * 4 + 75 * 2) * 1.5 * 0.2);
+// So here's our total profit:
+console.log('Total profit: ' + ((45 * 4 + 75 * 2) * 1.5  - (45 * 4 + 75 * 2) * 1.5 * 0.2 - (45 * 4 + 75 * 2)));
 ```
 
 ## Variable mysteries
