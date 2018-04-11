@@ -46,7 +46,7 @@ burger = pizza;
 pizza = 10;
 ```
 
-### 3. Copying values
+### 3. Operators
 
 What's the values of `pizza` and `burger` after the following code executes?
 
