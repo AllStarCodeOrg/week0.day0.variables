@@ -97,11 +97,6 @@ console.log('no');
 
 ## Bonuses
 
-### Easy
-
 ### Hard
 - Maybe something w/ astral unicode (http://xem.github.io/golfing/#jstweet_en)
-
-
-```
 
