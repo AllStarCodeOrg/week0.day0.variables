@@ -24,7 +24,40 @@ console.log('Total profit: ' + ((45 * 4 + 75 * 2) * 1.5  - (45 * 4 + 75 * 2) * 1
 ```
 
 ## Variable mysteries
-...
+
+### 1. Variable reassignment
+
+What's the value of `x` after the following code executes?
+
+```
+let x = 10;
+x = x + 2;
+x = x + x;
+```
+
+### 2. Copying values
+
+What's the values of `pizza` and `burger` after the following code executes?
+
+```
+let pizza = 5;
+let burger = 10;
+burger = pizza;
+pizza = 10;
+```
+
+### 3. Copying values
+
+What's the values of `pizza` and `burger` after the following code executes?
+
+```
+let pizza = 5;
+let burger = 10;
+burger = pizza;
+pizza++;
+burger--;
+pizza /= 2;
+```
 
 ## Spot the bug
 
