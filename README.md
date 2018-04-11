@@ -27,7 +27,7 @@ console.log('Total profit: ' + ((45 * 4 + 75 * 2) * 1.5  - (45 * 4 + 75 * 2) * 1
 
 ### 1. Variable reassignment
 
-What's the value of `x` after the following code executes?
+What is the value of `x` after the following code executes?
 
 ```
 let x = 10;
@@ -37,7 +37,7 @@ x = x + x;
 
 ### 2. Copying values
 
-What's the values of `pizza` and `burger` after the following code executes?
+What are the values of `pizza` and `burger` after the following code executes?
 
 ```
 let pizza = 5;
@@ -48,7 +48,7 @@ pizza = 10;
 
 ### 3. Operators
 
-What's the values of `pizza` and `burger` after the following code executes?
+What are the values of `pizza` and `burger` after the following code executes?
 
 ```
 let pizza = 5;
