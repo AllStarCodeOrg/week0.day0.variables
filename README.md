@@ -11,6 +11,7 @@
 ### 3. Fixing redundancy: StubHub
 
 The following program has a lot of redundant calculations. Use variables to reduce the redundancy in the code.
+Copy and paste this code into your `basics.js` file for editing.
 
 ```
 // We're going to earn a profit by reselling tickets
