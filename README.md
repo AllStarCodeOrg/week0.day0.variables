@@ -101,8 +101,8 @@ let no = FALSE;
 console.log('no');
 ```
 
-## Bonuses
-
-### Hard
-- Maybe something w/ astral unicode (http://xem.github.io/golfing/#jstweet_en)
+### 4. Look over this worksheet to help fill in any gaps. We’ll be reviewing these on Monday!
+- *NOTE: this is NOT homework. From the past two years, students have REQUESTED worksheets, so I have provided them. Use them at your discretion!*
+   - [Worksheet: Variables](https://docs.google.com/document/d/1NFH-9oMMxF3OOXiip0J1QQr5IqcdzudbW28IGXhRciw/edit?usp=sharing)
+     - [Worksheet: Variables (Answers)](https://docs.google.com/document/d/1kJHMaaxc0JsfRK9kTXSveWgZ68d6R5wV3-0SAu2JtCs/edit?usp=sharing)
 
